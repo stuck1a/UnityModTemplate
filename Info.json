@@ -1,0 +1,8 @@
+﻿{
+  "Id": "StrandedDeepLongplayMod",
+  "DisplayName": "Stranded Deep Longplay Mod",
+  "Author": "stuck1a",
+  "Version": "0.0.1",
+  "AssemblyName": "StrandedDeepLongplayMod.dll",
+  "EntryMethod": "StrandedDeepLongplayMod.Main.Load"
+}
