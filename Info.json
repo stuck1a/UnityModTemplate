@@ -1,8 +1,8 @@
 ﻿{
-  "Id": "StrandedDeepLongplayMod",
-  "DisplayName": "Stranded Deep Longplay Mod",
-  "Author": "stuck1a",
+  "Id": "MyStrandedDeepMod",
+  "DisplayName": "My Stranded Deep Mod",
+  "Author": "Your Name",
   "Version": "0.0.1",
-  "AssemblyName": "StrandedDeepLongplayMod.dll",
-  "EntryMethod": "StrandedDeepLongplayMod.Main.Load"
+  "AssemblyName": "UnityModTemplate.dll",
+  "EntryMethod": "UnityModTemplate.Main.Load"
 }
